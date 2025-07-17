@@ -43,9 +43,9 @@
 
 ---
 
-## 📸 Screenshot
+ 
 
-*Add a screenshot here showing the Streamlit UI and recommendations (optional)*
+
 
 ---
 
