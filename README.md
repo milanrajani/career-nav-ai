@@ -2,7 +2,7 @@
 
 **Career-Nav-AI** is an AI-powered job recommendation system that semantically matches user queries to the most relevant career roles using transformer-based embeddings and vector similarity search.
 
-### 🔗 Live Demo (Optional)
+### 🔗 Live Demo  
 *Coming Soon on Streamlit Cloud or Hugging Face Spaces*
 
 ---
